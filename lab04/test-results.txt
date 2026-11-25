@@ -1,0 +1,20 @@
+> java ResultChecker.java 85 60
+Final result: Not eligible
+> java ResultChecker.java 90 85
+Final result: Distinction
+> java ResultChecker.java 65 80
+Final result: Pass
+> java ResultChecker.java 30 90
+Final result: Fail
+> java ResultChecker.java 80 75
+Final result: Distinction
+> java ResultChecker.java 79 75
+Final result: Pass
+> java ResultChecker.java 50 75
+Final result: Pass
+> java ResultChecker.java 49 75
+Final result: Fail
+> java ResultChecker.java 90 74
+Final result: Not eligible
+> java ResultChecker.java 90 75
+Final result: Distinction
